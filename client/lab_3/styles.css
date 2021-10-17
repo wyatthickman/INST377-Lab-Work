@@ -4,7 +4,11 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
-  
+  .topnav {
+    background-color: rgba(0,139, 139,0.4);
+    overflow: hidden;
+    display: flex;
+  }
   .menu-container {
     display: flex;
     justify-content: center;
