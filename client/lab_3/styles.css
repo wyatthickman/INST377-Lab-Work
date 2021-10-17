@@ -5,8 +5,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .topnav {
-    background-color: rgba(0,139, 139,0.4);
-    overflow: hidden;
+    background-color: rgba(5, 90, 90, 0.4);
     display: flex;
   }
   .menu-container {
