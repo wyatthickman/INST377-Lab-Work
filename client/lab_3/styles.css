@@ -108,15 +108,15 @@
         order: 5;
       }
       .second-item{
-        order: 2;
+        order: 1;
       }
       .third-item{
-        order: 3;
+        order: 4;
       }
       .fourth-item{
-        order:4;
+        order:3;
       }
       .last-item{
-        order:1;
+        order:2;
       }
     }
