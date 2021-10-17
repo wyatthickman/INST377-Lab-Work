@@ -104,4 +104,19 @@
         display: flex;
         flex-wrap:wrap;
       }
+      .first-item{
+        order: 5;
+      }
+      .second-item{
+        order: 1;
+      }
+      .third-item{
+        order: 4;
+      }
+      .fourth-item{
+        order:3;
+      }
+      .last-item{
+        order:2;
+      }
     }
